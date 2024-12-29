@@ -1,0 +1,6 @@
+- I only studied from the course, and made notes for it up till here.
+- The course material present till here was enough for me to sit down for the exam and pass it with no major hiccups.
+- I did the pivoting for the exam using MSF's autoroute module, and solved the CMS/web machines using the instructions paired with the publicly available exploits for them.
+- I am now discontinuing the notes for the course material for the following two reasons:
+	- My access to the course material has been revoked, and I have no way to access it.
+	- Even if there would have been a way to access the course material, I find it repetitive, boring and extremely basic in its premise regardless, and don't want to spend further time on it.
